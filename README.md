@@ -4,9 +4,6 @@ This is my first code in Automation Testing. I written this code using Java Prog
 
 package FirstGo;
 
-/*This is my first code in Test Automation
-I'm very happy with this*/
-
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
